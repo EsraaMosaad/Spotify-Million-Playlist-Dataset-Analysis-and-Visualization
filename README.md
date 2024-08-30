@@ -1,13 +1,23 @@
-# Spotify-Million-Playlist-Dataset-Analysis-and-Visualization
-
-Here's a brief written report summarizing your findings and design choices for your Spotify analysis project.
-
----
 
 # Project Report: Spotify Playlist Analysis
 
 ## Overview
 This project aims to analyze a dataset from Spotify containing playlists and their associated tracks. The dataset consists of 250,000 playlists and 16,596,692 tracks, which were processed using PySpark for data cleaning and analysis, followed by visualization in a Streamlit dashboard.
+
+### Summary of Datasets
+
+1. **Spotify Million Playlist Dataset**  
+   - **Link**: [Spotify Million Playlist Dataset](https://www.kaggle.com/datasets/himanshuwagh/spotify-million)
+   - **Description**: This dataset contains millions of playlists from Spotify, including details like track names, artist names, and playlist metadata. It's suitable for analyzing music trends and user preferences.
+
+2. **Cleaned Spotify Data for Dashboard**  
+   - **Link**: [Cleaned Spotify Data](https://www.kaggle.com/datasets/esraaabdelrazek/spotify-data)
+   - **Description**: This dataset is a refined subset of the original Spotify Million Playlist dataset. It has been cleaned and structured for easier analysis and visualization. It is used for creating interactive visualizations in the Streamlit dashboard.
+
+### Usage in Project
+- The first dataset was used to extract a manageable subset for analysis, focusing on 250,000 playlists and 16,596,692 tracks.
+- The cleaned data was then utilized to create a Streamlit dashboard, showcasing visual insights derived from the dataset.
+
 
 ## Data Preparation
 1. **Data Loading**: 
