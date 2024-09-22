@@ -8,8 +8,6 @@ from pyspark.sql.window import Window
 # Initialize Spark session
 spark = SparkSession.builder \
     .appName("SpotifyMillionPlaylistDataset") \
-    .config("spark.executor.memory", "2g") \
-    .config("spark.driver.memory", "2g") \
     .getOrCreate()
 
 # Load data
