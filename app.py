@@ -13,8 +13,8 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # Load data
-playlist = spark.read.parquet("/content/playlist.parquet")
-tracks = spark.read.parquet("/content/tracks.parquet")
+playlist = spark.read.parquet("playlist.parquet")
+tracks = spark.read.parquet("tracks.parquet")
 
 # Streamlit application
 st.title('Spotify Playlist Dashboard')
