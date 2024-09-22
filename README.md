@@ -39,9 +39,15 @@ This project aims to analyze a dataset from Spotify containing playlists and the
   - Trends in playlist characteristics over time (e.g., number of followers, number of tracks).
   - Insights into artist contributions and collaborations within playlists.
     ![image](https://github.com/user-attachments/assets/9e829f42-7286-4852-a4d5-9b4daa7ffce5)
-    ![image](https://github.com/user-attachments/assets/577075dd-3dc0-48b9-958d-931fc99143d7)
-    ![image](https://github.com/user-attachments/assets/7ddc7e4f-a4b7-4463-8eb7-f663c0423112)
+    
     ![image](https://github.com/user-attachments/assets/787efabc-72ae-43a8-9be0-d7f9800044f4)
+    
+    ![image](https://github.com/user-attachments/assets/51ea1dbd-10cf-44a7-bda7-904ab1177d4a)
+
+    ![image](https://github.com/user-attachments/assets/7ddc7e4f-a4b7-4463-8eb7-f663c0423112)
+    
+    ![image](https://github.com/user-attachments/assets/ce01d2f6-2f34-4639-a967-5f55d3b3d67e)
+
 
 
 
