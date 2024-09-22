@@ -38,6 +38,8 @@ This project aims to analyze a dataset from Spotify containing playlists and the
   - Distribution of tracks per playlist.
   - Trends in playlist characteristics over time (e.g., number of followers, number of tracks).
   - Insights into artist contributions and collaborations within playlists.
+    ![image](https://github.com/user-attachments/assets/9e829f42-7286-4852-a4d5-9b4daa7ffce5)
+
 
 ## Tools and Technologies
 - **PySpark**: For scalable data processing and manipulation.
